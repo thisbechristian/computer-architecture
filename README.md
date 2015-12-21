@@ -1,2 +1,2 @@
-# computer-architecture
-CS 1541
+# Introduction to Computer Architecture
+CS 1541 Projects
